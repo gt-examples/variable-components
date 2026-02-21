@@ -1,1 +1,120 @@
-{}
+{
+  "0f442932c6435aad": {
+    "c": {
+      "i": 2,
+      "k": "_gt_value_2",
+      "v": "v"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "1a616ffc2514ec95": {
+    "c": "Publications",
+    "i": 1,
+    "t": "p"
+  },
+  "4dc44859c443eb4a": {
+    "c": "Composants variables",
+    "i": 1,
+    "t": "h1"
+  },
+  "6633364a8bb9d8b9": {
+    "c": {
+      "c": [
+        "Ceci est un exemple d'application créé avec ",
+        {
+          "c": "General Translation",
+          "i": 3,
+          "t": "a"
+        },
+        " pour illustrer l'internationalisation. Ce n'est pas un vrai produit."
+      ],
+      "i": 2,
+      "t": "p"
+    },
+    "i": 1,
+    "t": "div"
+  },
+  "6997f123da6c4b31": {
+    "c": {
+      "i": 2,
+      "k": "_gt_cost_2",
+      "v": "c"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "9e980782df16656b": {
+    "c": "Changez de langue pour voir comment les nombres, les devises et les dates s'adaptent à chaque paramètre régional.",
+    "i": 1,
+    "t": "p"
+  },
+  "a12f43b2cbe0dd6f": {
+    "c": [
+      "Depuis son inscription le ",
+      {
+        "i": 5,
+        "k": "_gt_date_5",
+        "v": "d"
+      },
+      ", ",
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      " a publié ",
+      {
+        "i": 3,
+        "k": "_gt_n_3",
+        "v": "n"
+      },
+      " publications et gagné ",
+      {
+        "i": 4,
+        "k": "_gt_n_4",
+        "v": "n"
+      },
+      " abonnés. Le solde actuel de son compte est ",
+      {
+        "i": 6,
+        "k": "_gt_cost_6",
+        "v": "c"
+      },
+      "."
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "c49a63ee62458a28": {
+    "c": [
+      "Membre depuis ",
+      {
+        "i": 2,
+        "k": "_gt_date_2",
+        "v": "d"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "c6158a4e0d97f7b7": {
+    "c": "Abonnés",
+    "i": 1,
+    "t": "p"
+  },
+  "d881736b5b25fb71": {
+    "c": "Solde du compte",
+    "i": 1,
+    "t": "p"
+  },
+  "d8d75d4dfce03379": {
+    "c": {
+      "i": 2,
+      "k": "_gt_n_2",
+      "v": "n"
+    },
+    "i": 1,
+    "t": "p"
+  }
+}

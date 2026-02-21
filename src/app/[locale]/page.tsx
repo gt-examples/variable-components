@@ -125,6 +125,23 @@ export default function Home() {
             each locale.
           </p>
         </T>
+
+        <T>
+          <div className="rounded-lg border border-zinc-200 bg-zinc-100 px-4 py-3 dark:border-zinc-800 dark:bg-zinc-900">
+            <p className="text-center text-xs text-zinc-500 dark:text-zinc-400">
+              This is an example app built with{" "}
+              <a
+                href="https://generaltranslation.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-zinc-700 dark:hover:text-zinc-200"
+              >
+                General Translation
+              </a>{" "}
+              to demonstrate internationalization. It is not a real product.
+            </p>
+          </div>
+        </T>
       </main>
     </div>
   );
